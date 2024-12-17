@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97254912531",
+    "project_id": "ashi-6ddbc",
+    "storage_bucket": "ashi-6ddbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97254912531:android:053fb67e56b81cbc6f05e6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2I65Hb8Z9hLD0Z3n_FHZc6Wj0-XsOp4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
